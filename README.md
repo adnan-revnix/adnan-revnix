@@ -45,14 +45,13 @@ I'm passionate about building scalable web applications and creating meaningful 
 - Advanced TypeScript patterns
 - Cloud architecture
 - Performance optimization
-- DevOps
+  
 
 ### 💡 Fun Facts
 
 - I love solving complex problems with elegant solutions
 - Always excited to learn new technologies
 - Passionate about clean code and best practices
-- [Add a personal fun fact]
 
 ---
 
