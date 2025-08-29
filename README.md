@@ -31,16 +31,11 @@ I'm passionate about building scalable web applications and creating meaningful 
 - Learning new technologies and best practices
 - Creating developer tools and utilities
 
-### 📫 Let's Connect
 
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Twitter:** [@YourTwitterHandle]
-- **Portfolio:** [Your Portfolio Website]
-- **Email:** your.email@example.com
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=adnanrevnix&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=adnan-revnix&show_icons=true&theme=radical)
 
 ### 🏆 Recent Projects
 
